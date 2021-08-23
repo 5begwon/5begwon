@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysh2193)](https://solved.ac/ysh2193/)
 ###
 [![5begwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=5begwon)](https://github.com/anuraghazra/github-readme-stats)
