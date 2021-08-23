@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysh2193)](https://solved.ac/ysh2193/)
 <!--
 **5begwon/5begwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
